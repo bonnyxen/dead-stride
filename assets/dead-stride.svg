@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="title desc">
+  <title id="title">DEAD STRIDE</title>
+  <desc id="desc">Parkour and survival. Amber route lines cross a dark abstract city skyline.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#191b1d"/><stop offset="1" stop-color="#090a0b"/></linearGradient>
+    <linearGradient id="glow"><stop stop-color="#f2b76b"/><stop offset="1" stop-color="#d0603e"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h1440v520H0z"/>
+  <path fill="url(#grid)" d="M0 0h1440v520H0z"/>
+  <path d="M900 520V288h118v232m32 0V207h94v313m34 0V327h111v193m26 0V142h125v378" fill="#202326"/>
+  <path d="M877 289h160m-5-82h130m-4 120h149m-10-185h143" stroke="#3b3d3f" stroke-width="3"/>
+  <path d="m852 385 119-71 118-82 146 121 132-185" fill="none" stroke="url(#glow)" stroke-width="3" stroke-dasharray="8 10" opacity=".85"/>
+  <g fill="#f2b76b"><circle cx="971" cy="314" r="5"/><circle cx="1089" cy="232" r="5"/><circle cx="1235" cy="353" r="5"/><circle cx="1367" cy="168" r="5"/></g>
+  <path d="M80 77h48" stroke="#efa85d" stroke-width="4"/>
+  <text x="144" y="83" fill="#b4b4ae" font-family="monospace" font-size="16" letter-spacing="4">BONNYXEN / GAME PROJECT</text>
+  <text x="74" y="245" fill="#f0ede6" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="114" letter-spacing="-5">DEAD</text>
+  <text x="74" y="355" fill="#f0ede6" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="114" letter-spacing="-5">STRIDE<tspan fill="#efa85d">.</tspan></text>
+  <text x="82" y="430" fill="#c3a481" font-family="monospace" font-size="18" letter-spacing="5">PARKOUR / SURVIVAL</text>
+  <path d="M80 480h1280" stroke="#3a342e"/>
+</svg>
