@@ -58,6 +58,29 @@ Enemy pressure should force a route decision. Spawning enemies directly onto the
 
 An open world, competitive PvP and a large hero ability roster would each multiply the work. Keep them outside the first map.
 
+## What the replies suggest
+
+The [original post's replies](https://x.com/bonnyxen/status/2110747071498051892) are a small, self-selected sample. They offer ideas to test, not a settled feature wishlist.
+
+| Observed response | Design implication to test |
+| --- | --- |
+| Five different accounts compare the clip to Dying Light. | Make the round-based, compact-map loop distinct enough that players can describe the difference after playing. The comparisons alone do not show approval or rejection. |
+| [Himookim asks for Mirror's Edge mixed with Outlast](https://x.com/himookim/status/2110787344018329766), specifically escaping a pursuer through parkour. This had 16 likes when checked. | Test whether a dangerous individual pursuer adds fear and makes traversal more satisfying. This is the clearest specific new mechanic suggestion in the visible replies. |
+| [One reply asks for Left 4 Dead](https://x.com/koikrip/status/2110828720063942817). | Co-op survival is worth testing, but that short comment does not establish demand for a particular party size, rescue system or character roster. |
+| [Vista Larga Games asks how it actually plays](https://x.com/VistaLargaGames/status/2110801734658556019). | A future demonstration should show a complete encounter: choosing a route, making a mistake, recovering and ending the round. |
+
+My reading is that fast movement becomes more interesting when there is a threat close enough to make the escape matter. The Outlast suggestion supports testing that idea. It does not establish that the whole audience wants a horror mode.
+
+### A blackout chase to test
+
+Use the existing Dead Block layout. After a clear power-failure cue, emergency lights reveal familiar crossings while one original pursuer enters through a visible route. Give it a recognisable footstep rhythm and a limited set of climbing connections.
+
+Let players break line of sight through the shop or create distance across rooftops. The pursuer should keep travelling through the level, never teleport onto a landing. An unreachable hiding spot or a chase that never releases pressure would both defeat the point.
+
+Test this as a short optional event first. Measure whether players choose to trigger it again, whether they can explain how they escaped and whether they describe the encounter as tense or unfair. A positive response could justify a separate pursuit challenge later.
+
+Character abilities and progression remain my design proposals rather than requests established by these replies.
+
 ## Questions for players
 
 - Is the main draw rescuing friends, surviving high rounds or mastering routes?

@@ -16,4 +16,10 @@ I want landing the jump to feel as good as surviving the round. And I want a mis
 
 The first map idea is **Dead Block**: a burning intersection, a stranded bus and a ring of connected rooftops. Small enough to learn, with enough crossings to make splitting up a real decision.
 
+### From the replies
+
+The [Dying Light comparisons](https://x.com/jordanfrto/status/2110809644931403887) kept coming up. My focus would be compact, round-based maps where the route you relied on at round five becomes a bad bet at round twenty.
+
+[Himookim suggested mixing Mirror's Edge with Outlast](https://x.com/himookim/status/2110787344018329766). I'd like to try that pressure in a blackout chase through Dead Block: emergency lighting, footsteps closing in and one pursuer you have to lose through the buildings. Clearing a gap should buy a few seconds to breathe.
+
 [Gameplay notes](GAMEPLAY.md) · [Suggest a runner, route or map](https://github.com/bonnyxen/dead-stride/issues)
